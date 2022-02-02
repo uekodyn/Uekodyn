@@ -27,3 +27,6 @@
 https://github.com/TheDudeThatCode/TheDudeThatCode
 
 [![uekodyn GitHub stats](https://github-readme-stats.vercel.app/api?username=uekodyn)](https://github.com/uekodyn/github-readme-stats)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={uekodyn}
+
