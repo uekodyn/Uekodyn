@@ -20,5 +20,3 @@
 - Enjoy it!! o/
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uekodyn" />
-
